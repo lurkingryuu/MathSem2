@@ -72,4 +72,5 @@ The same sympy functions are used here.
 
 # Author Details
 Yelisetty Karthikeya S M (A.K.A. Lurkingryuu)
+</br>
 contact: [Gmail](mailto:yelisettikarthik0@gmail.com)
