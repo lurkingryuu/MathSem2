@@ -4,6 +4,15 @@ Clone this repository to your project directory.
 
 Run `pip install -r requirements.txt` to install dependencies.
 
+## Documentation
+example:
+```python
+import sem2.NA_Matrix as nam
+
+print(help(nam)) # Module Help
+print(help(nam.jacobi)) # function help
+```
+
 ## Linear Analysis
 Download the [ZIP](https://drive.google.com/file/d/1-HTrZrj-Ts6y8ov6_-LnwZn3M3kAQ2cb/view?usp=sharing) file and extract it in your local computer.
 Run the LA_main.exe file in it.
